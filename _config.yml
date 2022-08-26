@@ -8,8 +8,8 @@ baseurl: 'seu-researchers/' # if you're using custom domain keep this blank exam
 darkmode: true
 hide_first_title: true # Useful if README.md is used on both github and pages
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#596ECF"
+    gradient_right: "#596ECF"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
