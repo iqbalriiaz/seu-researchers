@@ -5,9 +5,6 @@ remote_theme: tuur29/pages-themes-cayman
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 url: 'https://iqbalriiaz.github.io/' # your main domain
 baseurl: 'seu-researchers/' # if you're using custom domain keep this blank example: baseurl: ''
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-google_analytics_anonymize: false
 darkmode: true
 hide_first_title: true # Useful if README.md is used on both github and pages
 colors:
