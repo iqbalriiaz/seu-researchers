@@ -33,8 +33,7 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
-// @import 'jekyll-theme-cayman';
-@import 'jekyll-theme-leap-day';
+@import 'jekyll-theme-cayman';
 
 {% if site.logo_url %}
 .project-name::before {
