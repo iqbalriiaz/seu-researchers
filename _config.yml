@@ -4,11 +4,11 @@ remote_theme: tuur29/pages-themes-cayman
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 url: 'https://iqbalriiaz.github.io/' # your main domain
 baseurl: 'seu-researchers/' # if you're using custom domain keep this blank example: baseurl: ''
-darkmode: true
-colors:
-    gradient_left: "#1C9EC6"
-    gradient_right: "#1C9EC6"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+darkmode: false
+# colors:
+#     gradient_left: "#1C9EC6"
+#     gradient_right: "#1C9EC6"
+#     header: "#fff"
+#     android_theme: "#000" # this default to gradient_color
+#     link: "#1e6bb8" # this default to gradient_color
+#     section_title: "#155799" # this default to gradient_color
