@@ -18,19 +18,21 @@ $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
-$header-heading-color: {{ site.color.header | default: "#fff" }} !default;
-$header-bg-color: {{ site.color.gradient_right | default: "#1C9EC6" }} !default;
-$header-bg-color-secondary: {{ site.color.gradient_left | default: "#1C9EC6" }} !default;
+$header-heading-color: {{ site.color.header | default: "#fff" }};
+$header-bg-color: {{ site.color.gradient_right | default: "#1C9EC6" }};
+$header-bg-color-secondary: {{ site.color.gradient_left | default: "#1C9EC6" }};
 
 // Text
-$section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#1C9EC6" }} !default;
-$body-text-color: #606c71 !default;
-$body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#1e6bb8" }} !default;
-$blockquote-text-color: #819198 !default;
+$section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#1C9EC6" }};
+$body-text-color: #606c71;
+$body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#1e6bb8" }};
+$blockquote-text-color: #819198;
 
 // Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+// $code-bg-color: #f3f6fa !default;
+// $code-text-color: #567482 !default;
+$code-bg-color: #333 !default;
+$code-text-color: ##efefef !default;
 
 // Borders
 $border-color: #dce6f0 !default;
