@@ -5,6 +5,14 @@
 @import 'darkmode';
 {% endif %}
 
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+
 // Breakpoints
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
