@@ -29,7 +29,7 @@ $body-link-color: {{ site.color.link | default: site.color.gradient_left | defau
 $blockquote-text-color: #819198 !default;
 
 // Code
-$code-bg-color: #f3f6fa !default;
+$code-bg-color: #333333 !default;
 $code-text-color: #567482 !default;
 
 // Borders
