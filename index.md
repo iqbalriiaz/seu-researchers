@@ -42,14 +42,14 @@ best_score = evaluate_solution(best)
 
 ```python
 while True:
-&emsp;print('Best score so far', best_score, 'Solution', best)
-&emsp;new_solution = copy_solution(best)
-&emsp;mutate_solution(new_solution)
- 
-&emsp;score = evaluate(new_solution)
-&emsp;if evaluate(new_solution) < best_score:
-&emsp;&emsp;best = new_solution
-&emsp;&emsp;best_score = score
+    print('Best score so far', best_score, 'Solution', best)
+    new_solution = copy_solution(best)
+    mutate_solution(new_solution)
+
+    score = evaluate(new_solution)
+    if evaluate(new_solution) < best_score:
+        best = new_solution
+        best_score = score
 ```
 
 <b>Step1: Start with a random or an empty solution. This will be our “best solution”. </b>
