@@ -1,11 +1,9 @@
-remote_theme: tuur29/pages-themes-cayman
-# remote_theme: pages-themes/cayman@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 url: 'https://iqbalriiaz.github.io/' # your main domain
 baseurl: 'seu-researchers/' # if you're using custom domain keep this blank example: baseurl: ''
-darkmode: false
-hide_first_title: true # Useful if README.md is used on both github and pages
+darkmode: true
 colors:
     gradient_left: "#596ECF"
     gradient_right: "#596ECF"
