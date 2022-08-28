@@ -1,4 +1,4 @@
-# <center> Hill Climbing </center>
+# <center> SEU Researchers </center>
 
 ### Hill Climbing is a heuristic search used for mathematical optimization problems in the field of Artificial Intelligence.
 
