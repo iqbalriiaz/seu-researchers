@@ -1,4 +1,4 @@
-**Privacy Policy**
+# **Privacy Policy**
 
 **Iqbal Hossen Riaz** developed the SEU Researchers app as a Free app. This SERVICE is provided by him at no cost and is intended for use as is.
 
