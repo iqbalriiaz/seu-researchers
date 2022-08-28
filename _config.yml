@@ -12,7 +12,7 @@ buttons:
       zip_title: Terms and Conditions
       zip_hide: false
       tar_url: ./Privacy-Policy.html
-      tar_title: Privacy Polcily
+      tar_title: Privacy Policly
       tar_hide: false
       github_hide: true # hides "View on Github"
 # colors:
