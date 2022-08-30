@@ -8,11 +8,11 @@ baseurl: 'seu-researchers/' # if you're using custom domain keep this blank exam
 hide_first_title: true # Useful if README.md is used on both github and pages
 darkmode: false
 buttons:
-      zip_url: ./Terms-and-Conditions.html
-      zip_title: Terms and Conditions
+      zip_url: ./Student-Documentation.html
+      zip_title: Student Documentation
       zip_hide: false
-      tar_url: ./Privacy-Policy.html
-      tar_title: Privacy Policly
+      tar_url: ./Teacher-Documentation.html
+      tar_title: Teacher Documentation
       tar_hide: false
       github_hide: false # hides "View on Github"
 # colors:
