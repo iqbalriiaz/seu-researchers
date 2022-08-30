@@ -14,7 +14,7 @@ buttons:
       tar_url: ./Privacy-Policy.html
       tar_title: Privacy Policly
       tar_hide: false
-      github_hide: true # hides "View on Github"
+      github_hide: false # hides "View on Github"
 # colors:
 #     gradient_left: "#1C9EC6"
 #     gradient_right: "#1C9EC6"
