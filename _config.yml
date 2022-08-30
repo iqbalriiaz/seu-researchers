@@ -9,10 +9,10 @@ hide_first_title: true # Useful if README.md is used on both github and pages
 darkmode: false
 buttons:
       zip_url: ./Student-Documentation.html
-      zip_title: Student Documentation
+      zip_title: Student's Documentation
       zip_hide: false
       tar_url: ./Teacher-Documentation.html
-      tar_title: Teacher Documentation
+      tar_title: Teacher's Documentation
       tar_hide: false
       github_hide: false # hides "View on Github"
 # colors:
