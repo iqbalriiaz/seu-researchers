@@ -44,7 +44,7 @@ $header-bg-color-secondary: {
 // Text
 $section-headings-color: {
     {
-    site.color.section_title | default: site.color.gradient_right | default: "#1C9EC6"
+    site.color.section_title | default: site.color.gradient_right | default: "#159957"
   }
 }
 
@@ -104,11 +104,6 @@ $hr-border-color: #eff0f1 !default;
   % endif %
 }
 
-// @import "{{ site.theme }}";
-
-// footer {
-//   display: none !important;
-// }
 
 // .btn {
 //   display: none !important;
