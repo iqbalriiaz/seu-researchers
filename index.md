@@ -9,7 +9,7 @@ image: /assets/images/state_space_diagram.png
 The system is super dynamic and user-friendly.
 <div align="center">
 <pre>
-<a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>   <a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a>
+<a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>  <a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a>
 
 Contact: helloriiaz@gmail.com
 </pre></div>
