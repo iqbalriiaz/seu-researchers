@@ -2,9 +2,9 @@
 
 # Signup and Login
 
-<!-- <img style="float: left;" src="./assets/images/signupLogin.gif"> -->
+
 <img style="float: left;" src="./assets/images/signupLogin.gif"
-height="600">
+height="600" width="400">
 
 • signup with your university email.
 
