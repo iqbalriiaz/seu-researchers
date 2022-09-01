@@ -1,6 +1,3 @@
----
-image: /assets/images/state_space_diagram.png
----
 # <center> SEU Researchers </center>
 
 <img src="./assets/images/appFeatures.gif">
