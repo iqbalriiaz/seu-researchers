@@ -2,9 +2,12 @@
 
 # Signup and Login
 
-<img style="float: left;" src="./assets/images/signuplogin.gif" height="800px" width="400px">
+<img style="float: left;" src="./assets/images/signuplogin.gif" height="600px" width="350px">
 
-• signup with your university email. </br>
-• verify your account.</br>
-• please check your spam/junk folder for email verification link. Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list.</br>
-•
+• signup with your university email.
+
+• verify your account.
+
+• check your spam/junk folder for email verification link. [Consider adding admin@seu-researchers.firebaseapp.com to your trusted mail list to get future mails straight to the mailbox.]
+
+• 
