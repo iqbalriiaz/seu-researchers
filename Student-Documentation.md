@@ -4,11 +4,12 @@
 
 <!-- <img style="float: left;" src="./assets/images/signupLogin.gif"> -->
 <img style="float: left;" src="./assets/images/signupLogin.gif"
-height="550">
+height="600">
 
 • signup with your university email.
 
 • verify your account.
 
-• check your spam/junk folder for email verification link. [Consider adding admin@seu-researchers.firebaseapp.com to your trusted mail list to get future mails straight to the mailbox.]
+• check your spam/junk folder for email verification link. 
+[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 
