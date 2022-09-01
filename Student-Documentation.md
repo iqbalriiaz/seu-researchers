@@ -2,6 +2,6 @@
 
 # Signup and Login
 
-<img style="float: right;" src="./assets/images/signuplogin.gif">
+<img style="float: left;" src="./assets/images/signuplogin.gif" height="400px" width="200px">
 
-updating....
+    updating....
