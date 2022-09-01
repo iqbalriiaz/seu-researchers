@@ -3,7 +3,7 @@
 # Signup and Login
 
 <!-- <img style="float: left;" src="./assets/images/signupLogin.gif"> -->
-<img align="center" src="./assets/images/signupLogin.gif"
+<img style="float: center;" src="./assets/images/signupLogin.gif"
 height="500">
 
 • signup with your university email.
