@@ -24,7 +24,7 @@
 height="600px">
 </div>
 
-<div  style="float: left;">
+
 • signup with your university email.
 
 • verify your account.
@@ -37,7 +37,7 @@ height="600px">
 
 
 
-<div>
+
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
 <p align="center">
@@ -45,5 +45,4 @@ height="600px">
 
 <p align="center">Contact: <b>helloriiaz@gmail.com</b> </p>
 
-</div>
 </div>
