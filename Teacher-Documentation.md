@@ -3,11 +3,40 @@
 # Signup and Login
 
 <!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
-<div>
-<div style="float: left;">
+
+<div >
+<img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
+
+• signup with your university email.
+
+• verify your account.
+
+• check your spam/junk folder for email verification link. 
+
+[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
+
+</div>
+
+<div >
+<img style="float: right;" src="./assets/images/signupLogin.gif" height="600px">
+
+• signup with your university email.
+
+• verify your account.
+
+• check your spam/junk folder for email verification link. 
+
+[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
+
+</div>
+
+
+
+<!-- <div>
+<div style="float: right;">
 <img src="./assets/images/signupLogin.gif" height="600px">
 </div>
-<div style="float: right;">
+<div style="float: left;">
 • signup with your university email.
 
 • verify your account.
@@ -16,29 +45,14 @@
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 </div>
-</div>
+</div> -->
 
-<div>
-<div style="float: right;">
-<img src="./assets/images/signupLogin.gif" height="600px">
-</div>
-<div style="float: left;">
-• signup with your university email.
-
-• verify your account.
-
-• check your spam/junk folder for email verification link. 
-
-[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
-</div>
-</div>
-
-<div align="center">
+<!-- <div align="center">
 <a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a>
 
 Contact: <b>helloriiaz@gmail.com</b>
 
-</div>
+</div> -->
 
 
 <!-- <div  style="float: left;"> -->
