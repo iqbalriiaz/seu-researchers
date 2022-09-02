@@ -3,7 +3,7 @@
 # Signup and Login
 
 <div>
-<img algin="left" src="./assets/images/signupLogin.gif"
+<img style:float src="./assets/images/signupLogin.gif"
 height="600px">
 </div>
 <div>
@@ -19,7 +19,7 @@ height="600px">
 
 
 <div>
-<img algin="right" src="./assets/images/signupLogin.gif"
+<img style="float: right;" src="./assets/images/signupLogin.gif"
 height="600px">
 </div>
 <div>
