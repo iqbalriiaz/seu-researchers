@@ -4,7 +4,7 @@
 
 
 <img style="float: left;" src="./assets/images/signupLogin.gif"
-height="600px">
+height="600px" width="400">
 
 • signup with your university email.
 
