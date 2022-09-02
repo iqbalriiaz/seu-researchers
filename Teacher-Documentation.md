@@ -2,21 +2,12 @@
 
 # Signup and Login
 
-<div>
-        <img style="float: left;" src="./assets/images/signupLogin.gif"
-        height="600px">
-</div>
-
-
-
-
+<!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
 
 <div>
-<img style="float: right;" src="./assets/images/signupLogin.gif"
-height="600px">
-</div>
 
-<div  style="float: left;">
+<img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
+
 • signup with your university email.
 
 • verify your account.
@@ -24,13 +15,9 @@ height="600px">
 • check your spam/junk folder for email verification link. 
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
-</div>
 
 
-
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
-
+<img style="float: right;" src="./assets/images/signupLogin.gif" height="600px">
 
 • signup with your university email.
 
@@ -46,3 +33,6 @@ height="600px">
 Contact: <b>helloriiaz@gmail.com</b>
 
 </div>
+
+
+<!-- <div  style="float: left;"> -->
