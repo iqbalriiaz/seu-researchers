@@ -4,8 +4,6 @@
 
 <!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
 
-
-<div>
 <img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
 
 - signup with your university email.
@@ -30,15 +28,14 @@
 </div> -->
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
+<!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
 
 <p align="center">
 <a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a></p>
 
 <p align="center">Contact: <b>helloriiaz@gmail.com</b> </p>
 
-</div>
-</div>
+<!-- </div> -->
 
 
 
