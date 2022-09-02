@@ -42,7 +42,7 @@ width:40px;
 
 <div class='container3'>
 <div>
-<img src='http://ecx.images-amazon.com/images/I/21-leKb-zsL._SL500_AA300_.png' class='iconfb2'>
+<img style="float:right; src='http://ecx.images-amazon.com/images/I/21-leKb-zsL._SL500_AA300_.png' class='iconfb2'>
 </div>
 
 <div style='margin-left:60px;'>
