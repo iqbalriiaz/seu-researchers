@@ -17,7 +17,7 @@
 
 
 
-<p>
+<p float="right">
 <img src="./assets/images/signupLogin.gif" height="600px">
 </p>
 - signup with your university email.
