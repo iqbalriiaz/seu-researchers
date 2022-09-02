@@ -38,7 +38,7 @@
 
 | Image | Instruction |   
 | - | - |
-| <img src="./assets/images/signupLogin.gif" height="600px"> | • signup with your university email. <br> • verify your account. <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding<br> **admin@seu-researchers<br>.firebaseapp.com** <br>to your trusted mail list<br> to get future mails <br>straight to the mailbox.] |
+| <img src="./assets/images/signupLogin.gif" height="600px"> | • signup with your university email. <br> • verify your account. <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding **admin@seu-researchersfirebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.] |
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
