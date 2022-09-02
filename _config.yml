@@ -14,6 +14,7 @@ buttons:
       tar_title: Teacher's Documentation
       tar_hide: false
       github_hide: false # hides "View on Github"
+logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
 # colors:
 #     gradient_left: "#1C9EC6"
 #     gradient_right: "#1C9EC6"
