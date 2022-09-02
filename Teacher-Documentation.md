@@ -38,7 +38,7 @@
 
 Bluetooth Controller  |  Paired Bluetooth Devices |  Button Values
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://raw.githubusercontent.com/iqbalriiaz/Arduino-Robo-Car/main/1.jpeg)  |  ![image](https://raw.githubusercontent.com/iqbalriiaz/Arduino-Robo-Car/main/1.jpeg) |  ![text]text
+![image](https://raw.githubusercontent.com/iqbalriiaz/Arduino-Robo-Car/main/1.jpeg)  |  ![image](https://raw.githubusercontent.com/iqbalriiaz/Arduino-Robo-Car/main/1.jpeg) |  !<img src="./assets/images/signupLogin.gif" height="600px" width="400px">
 
 
 
