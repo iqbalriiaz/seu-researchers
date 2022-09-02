@@ -129,6 +129,22 @@
 			border-color: rgba(255, 255, 255, 0.3);
 		} */
 
+
+
+		.space {
+			width: 6px;
+			height: auto;
+			display: inline-block;
+		}
+
+		.page-header {
+			padding: 5rem 6rem;
+			color: #fff;
+			text-align: center;
+			background-color: #1C9EC6;
+			background-image: linear-gradient(120deg, #1C9EC6, #1C9EC6);
+		}
+
 		.btn {
 			display: inline-block;
 			margin-bottom: 1rem;
@@ -146,12 +162,7 @@
 			list-style: none;
 		}
 
-		.page-header {
-			color: #fff;
-			text-align: center;
-			background-color: #1C9EC6;
-			background-image: linear-gradient(120deg, #1C9EC6, #1C9EC6);
-		}
+
 
 		article,
 		aside,
@@ -366,12 +377,18 @@
 		}
 
 		h1 {
-			font-size: 3.5rem;
+			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			margin: 0.67em 0;
+			font-size: 3.0rem;
 			line-height: 1.2;
+			font-weight: bold;
 		}
 
 		h2 {
+			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 			font-size: 2.25rem;
+			color: #1C9EC6;
+			font-weight: bold;
 		}
 
 		h3 {
@@ -460,7 +477,7 @@
 			}
 
 			h1 {
-				font-size: 2.5rem;
+				font-size: 1.5rem;
 			}
 
 			h2 {
@@ -496,14 +513,7 @@
 			color: #000000;
 		}
 
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			color: #000000;
-		}
+
 
 		blockquote {
 			border-left-color: rgba(0, 0, 0, 0.2);
@@ -8836,17 +8846,17 @@
 
 	<!-- Wrapper -->
 	<div id="wrapper" class="divided">
-		<header class="page-header" role="banner" style=" padding-bottom: 3rem;">
+		<header class="page-header" role="banner" style=" padding: 3rem 6rem;">
 			<h1 class="project-name">SEU Researchers</h1>
 			<h2 class="project-tagline"></h2>
 
 			<!-- <a href="https://github.com/iqbalriiaz/seu-researchers" class="btn">Home</a> -->
 
 			<a href="https://iqbalriiaz.github.io/seu-researchers/" class="btn">Home</a>
-
+			<div class="space"></div>
 
 			<a href="./example.html" class="btn">Student's Documentation</a>
-
+			<div class="space"></div>
 			<a href="./Teacher-Documentation.html" class="btn">Teacher's Documentation</a>
 
 
@@ -8856,9 +8866,14 @@
 		<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 			id="first">
 			<div class="content">
-				<h2>Signup and Login</h2>
-				<p>signup with your university email. • verify your account. • check your spam/junk folder for email
-					verification link. [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail
+				<h2>Signup and login</h2>
+				<ul>
+					<li>signup with your university email.</li>
+					<li>verify your account.</li>
+					<li>check your spam/junk folder for email
+						verification link.</li>
+				</ul>
+				<p>Consider adding <b>admin@seu-researchers.firebaseapp.com</b> to your trusted mail
 					list to get future mails straight to the mailbox.</p>
 				<ul class="actions stacked">
 					<li><a href="#" class="button">Learn More</a></li>
