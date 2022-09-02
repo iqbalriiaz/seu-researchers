@@ -36,11 +36,9 @@
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 
-Bluetooth Controller  |  Paired Bluetooth Devices |  Button Values
-:-------------------------:|:-------------------------:|:-------------------------:
-![image](https://raw.githubusercontent.com/iqbalriiaz/Arduino-Robo-Car/main/1.jpeg)  |  !<img src="./assets/images/signupLogin.gif" height="600px" width="400px">
-
-
+Bluetooth Controller  |  Paired Bluetooth Devices   
+:-------------------------:|:-------------------------:
+<img src="./assets/images/signupLogin.gif" height="500px">  | <img src="./assets/images/signup.png" height="500px">
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
