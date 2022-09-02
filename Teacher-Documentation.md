@@ -3,9 +3,9 @@
 # Signup and Login
 
 <!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
-
-<img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
-
+<p float="left">
+<img  src="./assets/images/signupLogin.gif" height="600px">
+</p>
 - signup with your university email.
 
 - verify your account.
@@ -17,13 +17,9 @@
 
 
 
-
-
-
-
-
+<p>
 <img src="./assets/images/signupLogin.gif" height="600px">
-
+</p>
 - signup with your university email.
 
 - verify your account.
