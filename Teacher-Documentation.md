@@ -1,42 +1,44 @@
 # **Teacher's Documentation**
 
 # Signup and Login
-<div>
-    <div>
-        <img style="float: left;" src="./assets/images/signupLogin.gif"
-        height="600px">
-    </div>
 
-<div style="float:right;">
-•   signup with your university email.
+<!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
+<p float="left">
+<p>
 
-• verify your account.
+- signup with your university email.
 
-• check your spam/junk folder for email verification link. 
+- verify your account.
+
+- check your spam/junk folder for email verification link.
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
-</div>
-</div>
+</p>
 
-<div>
-<div>
-<img style="float: right;" src="./assets/images/signupLogin.gif"
-height="600px">
-</div>
+<img src="./assets/images/signupLogin.gif" height="600px" width="400px">
+
+</p>
 
 
-• signup with your university email.
 
-• verify your account.
 
-• check your spam/junk folder for email verification link. 
+# Form a Research Team
+
+<p align="right">
+<img src="./assets/images/signupLogin.gif" height="600px" width="400px">
+</p>
+
+- signup with your university email.
+
+- verify your account.
+
+- check your spam/junk folder for email verification link.
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
-</div>
-</div>
 
-
-
+| Image | Instruction |   
+| - | - |
+| <img src="./assets/images/signupLogin.gif" height="600px"> | • signup with your university email. <br> • verify your account. <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding **admin@seu-researchersfirebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.] |
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
@@ -46,3 +48,30 @@ height="600px">
 <p align="center">Contact: <b>helloriiaz@gmail.com</b> </p>
 
 </div>
+
+
+
+<!-- <div>
+<div style="float: right;">
+<img src="./assets/images/signupLogin.gif" height="600px">
+</div>
+<div style="float: left;">
+• signup with your university email.
+
+• verify your account.
+
+• check your spam/junk folder for email verification link. 
+
+[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
+</div>
+</div> -->
+
+<!-- <div align="center">
+<a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a>
+
+Contact: <b>helloriiaz@gmail.com</b>
+
+</div> -->
+
+
+<!-- <div  style="float: left;"> -->
