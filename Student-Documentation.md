@@ -3,9 +3,10 @@
 # Signup and Login
 
 <div>
-<img style:float src="./assets/images/signupLogin.gif"
+<img style="float: left;" src="./assets/images/signupLogin.gif"
 height="600px">
 </div>
+
 <div>
 • signup with your university email.
 
