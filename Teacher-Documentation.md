@@ -3,6 +3,8 @@
 # Signup and Login
 
 <!-- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;"> -->
+
+
 <div>
 <img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
 
