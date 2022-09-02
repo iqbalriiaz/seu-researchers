@@ -38,7 +38,7 @@
 
 Bluetooth Controller  |  Paired Bluetooth Devices   
 :-------------------------:|:-------------------------:
-<img src="./assets/images/signupLogin.gif" height="500px">  | • signup with your university email. <br> <br> • verify your account. <br> <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding<br> **admin@seu-researchers.firebaseapp.com** <br>to your trusted mail list<br> to get future mails <br>straight to the mailbox.]
+<img src="./assets/images/signupLogin.gif" height="600px">  | <p align="left">• signup with your university email. <br> <br> • verify your account. <br> <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding<br> **admin@seu-researchers.firebaseapp.com** <br>to your trusted mail list<br> to get future mails <br>straight to the mailbox.]</p>
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
