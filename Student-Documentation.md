@@ -5,7 +5,8 @@
 <div>
 <img src="./assets/images/signupLogin.gif"
 height="600px">
-
+</div>
+<div>
 • signup with your university email.
 
 • verify your account.
@@ -20,8 +21,8 @@ height="600px">
 <div>
 <img src="./assets/images/signupLogin.gif"
 height="600px">
-
-
+</div>
+<div>
 • signup with your university email.
 
 • verify your account.
