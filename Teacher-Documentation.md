@@ -36,9 +36,9 @@
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 
-Bluetooth Controller  |  Paired Bluetooth Devices   
-:-------------------------:|:-------------------------:
-<img src="./assets/images/signupLogin.gif" height="600px">  | <p align="left">• signup with your university email. <br> <br> • verify your account. <br> <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding<br> **admin@seu-researchers.firebaseapp.com** <br>to your trusted mail list<br> to get future mails <br>straight to the mailbox.]</p>
+| Image | Instruction |   
+| - | - |
+| <img src="./assets/images/signupLogin.gif" height="600px"> | • signup with your university email. <br> • verify your account. <br> • check your spam/junk folder for email verification link. <br> <br> [Consider adding<br> **admin@seu-researchers.firebaseapp.com** <br>to your trusted mail list<br> to get future mails <br>straight to the mailbox.] |
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:15px 0;">
 
