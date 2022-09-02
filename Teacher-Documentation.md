@@ -6,13 +6,13 @@
 <div>
 <div style="float: left;">
 <img src="./assets/images/signupLogin.gif" height="600px">
-</div>
 
+</div>
 • signup with your university email.
 
 • verify your account.
 
-• check your spam/junk folder for email verification link. 
+• check your spam/junk folder for email verification link.
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 </div>
