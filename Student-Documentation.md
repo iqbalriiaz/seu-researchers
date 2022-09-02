@@ -14,3 +14,9 @@ height="600px">
 
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; ">
+
+<a href="https://iqbalriiaz.github.io/seu-researchers/Terms-and-Conditions.html">Terms and Conditions</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://iqbalriiaz.github.io/seu-researchers/Privacy-Policy.html">Privacy Policy</a>
+
+<p>Contact: <b>helloriiaz@gmail.com</b> </p>
+</div>
