@@ -7,7 +7,7 @@
         height="600px">
     </div>
 
-<div style="float: right;">
+<div style="float:right;">
 •   signup with your university email.
 
 • verify your account.
