@@ -15,7 +15,7 @@
 [Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
 
 
-<img src="./assets/images/signupLogin.gif" height="600px">
+<img style="float: right;"src="./assets/images/signupLogin.gif" height="600px">
 
 • signup with your university email.
 
