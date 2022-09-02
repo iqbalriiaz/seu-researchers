@@ -1,8 +1,5 @@
-<html>
+# **Teacher's Documentation**
 
-
-<body>
-  <h1> Teacher's Documentation </h1>
   <div>
     <div style="display: flex; justify-content: flex-start">
       <img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
@@ -20,9 +17,6 @@
     </div>
 
     <div style="display: flex; justify-content: flex-start">
-      <div>I'm on the right</div>
+      <div>I'm on the left</div>
     </div>
   </div>
-</body>
-
-</html>
