@@ -5,7 +5,15 @@
       <img style="float: left;" src="./assets/images/signupLogin.gif" height="600px">
     </div>
     <div style="display: flex; justify-content: flex-end">
-      <div>I'm on the right</div>
+      <div>
+• signup with your university email.
+
+• verify your account.
+
+• check your spam/junk folder for email verification link. 
+
+[Consider adding **admin@seu-researchers.firebaseapp.com** to your trusted mail list to get future mails straight to the mailbox.]
+      </div>
     </div>
   </div>
 
