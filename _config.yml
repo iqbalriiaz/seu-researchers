@@ -14,7 +14,7 @@ buttons:
       tar_title: Teacher's Documentation
       tar_hide: false
       github_hide: false # hides "View on Github"
-logo_url: https://raw.githubusercontent.com/iqbalriiaz/seu-researchers/main/assets/images/seulogo.png
+# logo_url: https://raw.githubusercontent.com/iqbalriiaz/seu-researchers/main/assets/images/seulogo.png
 # colors:
 #     gradient_left: "#1C9EC6"
 #     gradient_right: "#1C9EC6"
