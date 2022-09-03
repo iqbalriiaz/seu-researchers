@@ -5,6 +5,10 @@
 @import 'darkmode';
 {% endif %}
 
+footer {
+  display: none !important;
+}
+
 // Breakpoints
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
@@ -49,3 +53,8 @@ $hr-border-color: #eff0f1 !default;
 {% if site.hide_first_title %}
     .main-content h1:first-child { display: none; }
 {% endif %}
+
+
+// .btn {
+//   display: none !important;
+// }
