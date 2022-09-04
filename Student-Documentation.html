@@ -120,7 +120,7 @@
 		}
 
 		body {
-			line-height: 1;
+			line-height: 1.5;
 		}
 
 		/* .btn {
@@ -144,8 +144,20 @@
 		} */
 
 
+		@media screen and (max-width: 42em) {
+			.btn {
+				display: block;
+				width: 100%;
+				padding: 0.75rem;
+				font-size: 0.9rem;
+			}
+
+		}
+
 		.btn {
 			display: inline-block;
+			padding: 0.75rem;
+			font-size: 0.9rem;
 			margin-bottom: 1rem;
 			color: rgba(255, 255, 255, 0.7);
 			background-color: rgba(255, 255, 255, 0.08);
@@ -154,7 +166,7 @@
 			border-width: 1px;
 			border-radius: 0.3rem;
 			transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-
+			text-decoration: none;
 			margin-left: 0;
 		}
 
@@ -170,6 +182,13 @@
 			width: 3px;
 			height: auto;
 			display: inline-block;
+		}
+
+		@media screen and (max-width: 42em) {
+			.page-header {
+				padding: 2rem 1rem;
+			}
+
 		}
 
 		.page-header {
@@ -339,6 +358,11 @@
 		body {
 			background-color: #ffffff;
 			color: #000000;
+			padding: 0;
+			margin: 0;
+			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			line-height: 1.5;
+
 		}
 
 		body,
@@ -8896,7 +8920,8 @@
 </head>
 
 <body class="is-preload">
-	<header class="page-header" role="banner" style=" padding: 3rem 6rem;">
+	<header class="page-header" role="banner" style=" padding: 2rem 1rem;">
+
 		<h1 class="project-name">SEU Researchers</h1>
 		<h2 class="project-tagline"></h2>
 
