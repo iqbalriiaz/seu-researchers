@@ -144,6 +144,9 @@
 		} */
 
 
+
+
+
 		@media screen and (max-width: 42em) {
 			.btn {
 				display: block;
@@ -185,6 +188,20 @@
 		}
 
 		@media screen and (max-width: 42em) {
+			.page-header {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (min-width: 42em) and (max-width: 64em) {
+			.page-header {
+				padding: 3rem 4rem;
+			}
+
+		}
+
+		@media screen and (min-width: 64em) {
 			.page-header {
 				padding: 2rem 1rem;
 			}
@@ -419,7 +436,7 @@
 		h5,
 		h6 {
 			font-weight: 300;
-			line-height: 1.375;
+			/* line-height: 1.375; */
 			letter-spacing: -0.05em;
 			margin: 0 0 1rem 0;
 		}
@@ -436,19 +453,16 @@
 
 		h1 {
 			display: block;
-
 			margin-block-start: 0.67em;
 			margin-block-end: 0.67em;
 			margin-inline-start: 0px;
 			margin-inline-end: 0px;
 			font-weight: bold;
-
+			box-sizing: border-box;
 			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 			margin-top: 0;
 			margin-bottom: 0.1rem;
 			font-size: 3.25rem;
-			line-height: 1.2;
-			font-weight: bold;
 		}
 
 		h2 {
@@ -8920,7 +8934,8 @@
 </head>
 
 <body class="is-preload">
-	<header class="page-header" role="banner" style=" padding: 2rem 1rem;">
+	<!-- <header class="page-header" role="banner" style=" padding: 2rem 1rem;"> -->
+	<header class="page-header" role="banner">
 
 		<h1 class="project-name">SEU Researchers</h1>
 		<h2 class="project-tagline"></h2>
